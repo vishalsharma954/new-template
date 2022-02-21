@@ -62,7 +62,7 @@ const Navbar = () => {
         <NavbarContainer>
             <NavbarWrapper>
                 <TopLeft>
-                    <Logo>twdadmin</Logo>
+                    <Logo>Testing</Logo>
                 </TopLeft>
                 <TopRight>
                     <IconContainer>

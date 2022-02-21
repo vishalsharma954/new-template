@@ -92,14 +92,14 @@ const Sidebar = () => {
                                 Home
                             </SidebarListItem>
                         </Link>
-                        <SidebarListItem>
+                        {/* <SidebarListItem>
                             <MyTimeline />
                             Analytics
-                        </SidebarListItem>
-                        <SidebarListItem>
+                        </SidebarListItem> */}
+                        {/* <SidebarListItem>
                             <MyTrendingUp />
                             Sales
-                        </SidebarListItem>
+                        </SidebarListItem> */}
                     </SidebarList>
                 </SidebarMenu>
                 <SidebarMenu>
@@ -117,17 +117,17 @@ const Sidebar = () => {
                                 Products
                             </SidebarListItem>
                         </Link>
-                        <SidebarListItem>
+                        {/* <SidebarListItem>
                             <MyAssessment />
                             Reports
-                        </SidebarListItem>
-                        <SidebarListItem>
+                        </SidebarListItem> */}
+                        {/* <SidebarListItem>
                             <MyLocalAtm />
                             Transactions
-                        </SidebarListItem>
+                        </SidebarListItem> */}
                     </SidebarList>
                 </SidebarMenu>
-                <SidebarMenu>
+                {/* <SidebarMenu>
                     <SidebarTitle>Connect</SidebarTitle>
                     <SidebarList>
                         <SidebarListItem>
@@ -143,8 +143,8 @@ const Sidebar = () => {
                             Messages
                         </SidebarListItem>
                     </SidebarList>
-                </SidebarMenu>
-                <SidebarMenu>
+                </SidebarMenu> */}
+                {/* <SidebarMenu>
                     <SidebarTitle>Employees</SidebarTitle>
                     <SidebarList>
                         <SidebarListItem>
@@ -160,7 +160,7 @@ const Sidebar = () => {
                             Reports
                         </SidebarListItem>
                     </SidebarList>
-                </SidebarMenu>
+                </SidebarMenu> */}
             </SidebarWrapper>
         </SidebarContainer>
     )
